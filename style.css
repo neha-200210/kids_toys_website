@@ -132,7 +132,7 @@
 }
 /* ------------------------------------------------------------------------------------------------- */
 .parallex{
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./shopping-mall.jpg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./intro1.jpg) no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
     width: 100%;
